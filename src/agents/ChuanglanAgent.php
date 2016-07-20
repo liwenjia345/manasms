@@ -4,7 +4,7 @@ use Toplan\PhpSms\Agent;
 
 class ChuanglanAgent extends Agent {
     //override
-    //发送短信一级入口
+    //发送短信一级入口test
     public function sendSms($to, $content, $tempId, array $data)
     {
         //在这个方法中调用二级入口
