@@ -5,7 +5,8 @@
 # 安装
 
 ```php
-composer require liwenjia345/manasms
+composer require liwenjia345/manasms//正式版
+composer require liwenjia345/manasms:dev-master//开发版
 ```
 
 # 快速上手
