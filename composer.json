@@ -4,6 +4,7 @@
     "keywords": ["php", "sms"],
     "license": "MIT",
     "type": "project",
+    "version":"1.0.0",
     "authors": [
         {
             "name": "liwenjia345",
