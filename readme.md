@@ -1,6 +1,6 @@
-# PhpSms
+# ManaSms
 
-基于[PhpSms](https://github.com/toplan/phpsms)，增加“创蓝”服务商。
+基于[PhpSms](https://github.com/toplan/phpsms)，使用“创蓝”服务商。
 
 # 安装
 
