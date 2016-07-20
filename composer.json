@@ -9,7 +9,7 @@
         {
             "name": "liwenjia345",
             "email": "liwenjia@mana.com",
-            "homepage": "",
+            "homepage": "http://www.mana.com",
             "role": "Developer"
         }
     ],
@@ -20,12 +20,8 @@
     },
     "autoload": {
         "psr-4": {
-            "liwenjia345\\Manasms\\": [
-                "src/agents/"
-            ],
-            "Toplan\\PhpSms\\Facades\\": [
-                "src/phpsms/facades/"
-            ]
+            "liwenjia345\\Manasms\\": "src/agents/",
+            "Toplan\\PhpSms\\Facades\\": "src/phpsms/facades/"
         }
     }
 }
